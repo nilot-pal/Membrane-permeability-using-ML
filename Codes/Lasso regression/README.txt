@@ -33,6 +33,7 @@ To run the program:
 					  alpha search (Fig. 6 of the report)
 		- learning_curve:  	  learning curve (scores vs number of input samples) (Fig. 7 in report)
 		- Weight_Evolution:       weight evolution curve (Fig.9)
+		
 
 	   other files in this subfolder are just supplementary files, not containing output data 
 
